@@ -5,6 +5,6 @@
 5;+79154440011;Podolsk, Sadovaya st. 3, apt. 7;Smirnov Dmitry Olegovich
 6;+79998887766;Moscow, Vernadskogo ave. 78, apt. 201;Volkova Elena Pavlovna
 7;+79031239876;Balashikha, Lesnaya st. 14, apt. 56;Morozov Sergey Nikolaevich
-8;+79265432100;Moscow, Profsoyuznaya st. 40, apt. 9;Lebedeva Olga Viktorovna
+8;+78265432100;Moscow, Profsoyuznaya st. 40, apt. 9;Lebedeva Olga Viktorovna
 9;+79167651234;Mytishchi, Kolontsova st. 2, apt. 33;Novikov Andrey Mikhailovich
 10;+79857894561;Moscow, Stromynka st. 20, apt. 12;Fedorova Natalia Andreevna
